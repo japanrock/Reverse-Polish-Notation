@@ -1,0 +1,6 @@
+Usage:
+ gcc *.c
+ gcc *.o
+ ./a.out
+ 1 2 +
+ => 3
